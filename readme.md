@@ -1,3 +1,3 @@
 # FrontEnd page built with Sass
 
-<a src="https://oyudif.github.io/natours-project/">Open page</a>
+Here is the link for the Page: [click me](https://oyudif.github.io/natours-project/)!
